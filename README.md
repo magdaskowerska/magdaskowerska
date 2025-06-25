@@ -20,7 +20,7 @@ at &nbsp; <a href="https://www.bayer.com" target="_blank"><img src="https://uplo
 
 ## 💡 I’m Learning
 
-- Aspect Based Sentiment Analysis (ABSA)
+- Aspect Based Sentiment Analysis (ABSA) / NLP
 - Cognitive Psychology 
 
 ### 📫 Get in Touch
