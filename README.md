@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magdalena-skowerska/)](https://www.linkedin.com/in/magdalena-skowerska/)
+[![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/magdaskowerska)](https://github.com/magdaskowerska)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:magdask3@gmail.com)](mailto:magdask3@gmail.com)
+
 <!--
 **magdaskowerska/magdaskowerska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
