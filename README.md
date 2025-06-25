@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/magdalena-skowerska/)](https://www.linkedin.com/in/magdalena-skowerska/)
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/magdaskowerska)](https://github.com/magdaskowerska)
